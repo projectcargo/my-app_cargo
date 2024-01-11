@@ -1,0 +1,8 @@
+background ma j vido 6 ena upar test dynamic move thata rakhva ,ek project(portfolio) ma already 6 e copy karva
+
+class= hoi tya className karvu
+
+Marinewave nu tiwtter account banavi ne footer ma link ma add karvu
+
+professional font style add do 
+navbar link styling change do
